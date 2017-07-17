@@ -1,4 +1,5 @@
 Dir1File2
 Ide is írunk
+Minden amit mosr csinálunk az TeszTagBranchbe megy
+Megy tovább a fejlesztés
 De a master ágon sem állt meg az élet.
-

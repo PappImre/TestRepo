@@ -1,3 +1,5 @@
 Dir2File1
 Mind a kettõbe írunk
 De a master ágon sem állt meg az élet.
+Minden amit mosr csinálunk az TeszTagBranchbe megy 
+Megy tovább a fejlesztés
