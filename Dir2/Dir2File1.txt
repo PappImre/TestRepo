@@ -1,2 +1,3 @@
 Dir2File1
 Mind a kettõbe írunk
+Minden amit mosr csinálunk az TeszTagBranchbe megy 
