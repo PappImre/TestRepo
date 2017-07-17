@@ -1,3 +1,4 @@
 Dir1File2
 Ide is írunk
-Minden amit mosr csinálunk az TeszTagBranchbe megy 
+Minden amit mosr csinálunk az TeszTagBranchbe megy
+Megy tovább a fejlesztés
