@@ -1,1 +1,3 @@
 Dir2File2
+Mind a kettõbe írunk, de ezt még nem küldjük be
+Mi az az Amend Commit? 
