@@ -2,3 +2,4 @@ Dir2File1
 Mind a kettõbe írunk
 Minden amit mosr csinálunk az TeszTagBranchbe megy 
 Megy tovább a fejlesztés
+Pusholás Githubra megvolt, most itt is írunk tovább

@@ -3,3 +3,4 @@ Dir1File1 íróka
 Íróka még
 Minden amit mosr csinálunk az TeszTagBranchbe megy 
 Megy tovább a fejlesztés
+Pusholás Githubra megvolt, most itt is írunk tovább
